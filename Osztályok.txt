@@ -1,0 +1,10 @@
+Osztályok:
+- FileManager
+- Termek
+- Program
+- Bolt
+- Raktar
+- Alkalmazott
+- Raktaros
+- Elado
+- Vevo
